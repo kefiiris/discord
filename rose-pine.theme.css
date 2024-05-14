@@ -9,7 +9,7 @@
 */
 
 :root {
---Chat-Font-Used: 'Noto Sans' ;
+--Chat-Font-Used: 'SF Pro Rounded Light' ;
 --Chat-Font-Size: 14px;
 
     --font-primary: var(--Chat-Font-Used);
