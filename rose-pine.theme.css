@@ -9,8 +9,8 @@
 */
 
 :root {
---Chat-Font-Used: 'SF Pro Display' ;
---Chat-Font-Size: 14px;
+--Chat-Font-Used: 'Roboto' ;
+--Chat-Font-Size: 16px;
 
     --font-primary: var(--Chat-Font-Used);
     --font-display: var(--Chat-Font-Used);
